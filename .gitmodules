@@ -1,0 +1,13 @@
+[submodule "vendor/miniz"]
+    ignore = untracked
+	path = vendor/miniz
+	url = https://github.com/richgel999/miniz
+[submodule "vendor/stb"]
+	path = vendor/stb
+	url = https://github.com/nothings/stb
+[submodule "vendor/dr_libs"]
+	path = vendor/dr_libs
+	url = https://github.com/mackron/dr_libs
+[submodule "r128"]
+	path = r128
+	url = https://github.com/fahickman/r128

@@ -1,0 +1,10 @@
+*.xcf
+*.kate-swp
+/src/test_*.bin
+/src/test_*.exe
+vgcore.*
+/examples/example_*.bin
+/examples/example_*.exe
+/spew3d.h
+/include/spew3d.h
+~*
