@@ -1,5 +1,5 @@
 
-![Project logo](https://codeberg.org/Spew3D/Spew3D/src/branch/main/logo/logo.png)
+![Project logo](https://horse64.org/img/spew3dlogo.png)
 
 Welcome to Spew3D
 =================
